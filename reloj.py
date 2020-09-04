@@ -15,4 +15,3 @@ while True:
             time.sleep(59)
         elif(abierto):
             abierto = False
-
