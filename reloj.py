@@ -1,9 +1,8 @@
-from tkinter import *
 import datetime
 import time
 import winsound
 import os
-
+from tkinter import *
 
 while True:
         abierto = False
@@ -15,4 +14,3 @@ while True:
             time.sleep(59)
         elif(abierto):
             abierto = False
-
